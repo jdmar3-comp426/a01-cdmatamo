@@ -49,8 +49,8 @@ p.spot {
 div.spec {
     background-color: #FF00FF;
 }
-div + p {
+h1 + div {
     
-    font-family:fantasy;
+    background-color: #8b8b94;
 }
 
