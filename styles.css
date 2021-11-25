@@ -46,7 +46,8 @@ p.spot {
     background-color: #FF00FF;
 }
 
-div > p.spot {
+div > p.dashed {
     background-color: #FF00FF;
+    font-family: monospace;
 }
 
