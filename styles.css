@@ -1,0 +1,44 @@
+Body {
+    background-color: #119beb
+}
+
+p.solid {
+    border-style: solid;
+    border-width: 2px;
+}
+
+p.dashed {
+    border-style: dashed;
+    border-width: 2px;
+}
+
+p.groove {
+    border-style:groove;
+    border-width: 2px; 
+}
+
+img {
+    border:100px solid #ffff00
+}
+
+#h2 {
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+p:hover {
+    font-family:fantasy;
+}
+
+#p3 {
+    font-family:cursive;
+}
+
+#p4 {
+    font-family:fantasy;
+}
+
+img.a {
+    border:100px solid #FF0000;
+}
+
