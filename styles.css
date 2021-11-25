@@ -38,11 +38,15 @@ p:hover {
     font-family:fantasy;
 }
 
-img.a {
+img.a  {
     border:100px solid #FF0000;
 }
 
-p.spot + p:hover {
+p.spot {
+    background-color: #FF00FF;
+}
+
+div > p.spot {
     background-color: #FF00FF;
 }
 
