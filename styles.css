@@ -42,7 +42,7 @@ img.a {
     border:100px solid #FF0000;
 }
 
-p.spot {
+p.spot + p:hover {
     background-color: #FF00FF;
 }
 
