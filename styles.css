@@ -49,7 +49,7 @@ p.spot {
 div.spec {
     background-color: #a888a8;
 }
-body > p.spot {
+body > p {
     
     background-color: #8b8b94;
 }
