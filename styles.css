@@ -54,3 +54,7 @@ body > p {
     background-color: #8b8b94;
 }
 
+p strong {
+    color:crimson;
+}
+
